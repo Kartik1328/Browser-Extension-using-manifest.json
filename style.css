@@ -1,0 +1,23 @@
+body {
+    width: 230px;
+    height: 200px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    
+    
+}
+
+p {
+    display: inner-flex;
+    margin: auto 10px;
+    font-size: 18px;
+    color: whitesmoke;
+    border-radius: 1px;
+    border: 2px solid whitesmoke;
+    padding: 10px;
+    
+
+   
+}
